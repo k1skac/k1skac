@@ -18,12 +18,12 @@ Feel free to contact me!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1skac&show_icons=true&theme=merko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k1skac&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1skac&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **k1skac/k1skac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k1skac&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
