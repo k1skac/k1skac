@@ -15,6 +15,7 @@ I'm trying to get out of tutorial hell, which means I'm interested in everything
 -> Codewars : https://www.codewars.com/users/k1skac
 
 Feel free to contact me!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1skac)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **k1skac/k1skac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
