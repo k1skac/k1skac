@@ -9,7 +9,9 @@ I'm trying to get out of tutorial hell, which means I'm interested in everything
 📫 I am reachable :
 
 -> LinkedIn: https://www.linkedin.com/in/bal%C3%A1zs-kaczor-907979285/ 
+
 -> HackerRank: https://www.hackerrank.com/profile/kiskac
+
 -> Codewars : https://www.codewars.com/users/k1skac
 
 Feel free to contact me!
