@@ -16,6 +16,9 @@ I'm trying to get out of tutorial hell, which means I'm interested in everything
 
 Feel free to contact me!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1skac)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1skac&show_icons=true&theme=merko)
+
 <!--
 **k1skac/k1skac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
