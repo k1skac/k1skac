@@ -4,7 +4,7 @@ Welcome to my repository!
 
 Right now I am actively looking for a job to start my first steps as a real programmer.
 Right now I'm trying to build and expand my portfolio and I'm also working on some pet projects.
-I'm trying to get out of tutorial hell, which means I'm interested in everything, right now I'm learning about Javascript, the new CSS options, #61DAFB and Angular.
+I'm trying to get out of tutorial hell, which means I'm interested in everything, right now I'm learning about Javascript, the new CSS options, React and Angular.
 
 📫 I am reachable :
 
