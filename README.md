@@ -7,7 +7,6 @@ Right now I'm trying to build and expand my portfolio and I'm also working on so
 I'm trying to get out of tutorial hell, which means I'm interested in everything, right now I'm learning about Javascript, the new CSS options, React and Angular.
 
 📫 I am reachable :
- Validate-BK
 -> LinkedIn: https://www.linkedin.com/in/bal%C3%A1zs-kaczor-907979285/ 
 
 -> HackerRank: https://www.hackerrank.com/profile/kiskac
